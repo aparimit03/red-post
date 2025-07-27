@@ -1,6 +1,7 @@
 certifi==2025.7.14
 charset-normalizer==3.4.2
 idna==3.10
+pillow==11.3.0
 praw==7.8.1
 prawcore==2.4.0
 python-dotenv==1.1.1
